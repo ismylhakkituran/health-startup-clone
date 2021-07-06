@@ -14,7 +14,7 @@
 	<name>merhabadunya</name>
 	<description>First project for Spring Boot</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>16.0.1</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
