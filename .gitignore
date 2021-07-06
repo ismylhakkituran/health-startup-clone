@@ -33,6 +33,6 @@ build/
 .vscode/
 
 
-# myself
-*.png
-linkler.md
+#My ignored files as @ismylhakki
+*png
+box
