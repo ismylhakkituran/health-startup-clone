@@ -1,0 +1,21 @@
+properties:
+  uri:
+    self: https://dev-gemini.herokuapp.com
+    web: https://spermatorial-dev.herokuapp.com
+
+  notification:
+    webhook: https://hooks.slack.com/services/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
+    webhook2: https://hooks.slack.com/services/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
+
+logging:
+  file:
+    path: ./var/log/gemini/gemini.log
+#    path: ./ymldangeldim/fotofoto.log
+
+
+#logging:
+#  file:
+#    name: /var/log/merhabadunya/merhabadunya.log
+#  logback:
+#    rollingpolicy:
+#      file-name-pattern: /var/log/merhabadunya/merhabadunya-%d{yyyy-MM-dd}.%i.gz
