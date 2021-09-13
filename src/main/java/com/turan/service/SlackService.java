@@ -22,7 +22,6 @@ public class SlackService {
     public String baseUri="https://spermatorial-dev.herokuapp.com";
     @Value("${properties.notification.webhook}")
     public String webhook="https://hooks.slack.com/services/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";
-    //gemini-prod-slack public String webhook="https://hooks.slack.com/services/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";
 
     private final RestTemplate restTemplate;
 
